@@ -1,0 +1,12 @@
+# Virtual Environment
+.venv
+
+# Model artifacts
+models/
+
+# files with personal information
+*.jpg
+*.jpeg
+*.tif
+*.pdf
+
